@@ -1,2 +1,2 @@
 # C++ OOP course
- whole course from Udemy
+ whole course of Object-Oriented Programming from Udemy
