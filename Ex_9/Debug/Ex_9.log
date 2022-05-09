@@ -1,0 +1,4 @@
+﻿  Ex_9.cpp
+C:\Users\konra\OneDrive\Documents\GitHub\C---OOP-course\Ex_9\Ex_9.cpp(24,26): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\konra\OneDrive\Documents\GitHub\C---OOP-course\Ex_9\Ex_9.cpp(26,26): warning C4305: "argument": obcięcie z "double" do "float"
+  Ex_9.vcxproj -> C:\Users\konra\OneDrive\Documents\GitHub\C---OOP-course\Ex_9\Debug\Ex_9.exe
