@@ -5,11 +5,11 @@ using namespace std;
 class Print {
 public:
 
-    int number(int liczba) {
+    void number(int liczba) {
         cout << liczba;
     }
 
-    int words(string slowa) {
+    void words(string slowa) {
         cout << slowa;
 
     }
