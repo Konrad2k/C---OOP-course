@@ -1,0 +1,3 @@
+﻿  Ex_12.cpp
+C:\Users\konra\OneDrive\Documents\GitHub\C---OOP-course\Ex_12\Ex_12.cpp(15): error C4716: "Print::words": musi zwracać wartość
+C:\Users\konra\OneDrive\Documents\GitHub\C---OOP-course\Ex_12\Ex_12.cpp(10): error C4716: "Print::number": musi zwracać wartość
